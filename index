@@ -1,0 +1,71 @@
+<!---Written by LightCode--->
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>黎明</title>
+  <link rel="icon" type="img\png" href="img/dawn.png">
+  <link rel="stylesheet" href="css/index.css">
+  <meta name="description" content="黎明服务器官网">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+</head>
+
+<body>
+  <!---Navigation--->
+  <div class="menu">
+    <a href="index.html" class="right">黎明</a>
+    <!-- <a href="" class="left">图片</a>
+    <a href="team.html" class="left">Team</a>
+    <a href="index.html" class="left">Start</a> -->
+  </div>
+  <!---Logo--->
+  <div class="logo">
+    <center>
+      <div style="width:128px;height:128px;border-radius:100%;overflow:hidden;"><img src="img\dawn.png" /></div>
+    </center>
+    <br>
+    <h3 style="text-decoration-line: underline;">www.dawn.cx</h3>
+    <br>
+    <h3>黑暗消寂，黎明破晓，拂晓晨曦</h3>
+    <br><br>
+  </div>
+  <!---Textarea--->
+  <div class="container">
+    <div class="textarea1">
+      <br>
+      <img src="img\img1.png">
+      <br>
+      <img src="img\img2.png">
+
+      <!-- <span class="text1">
+        <h2>标题1</h2>
+        <p>内容1</p>
+      </span> -->
+    </div>
+    <div class="textarea2">
+      <iframe src="//player.bilibili.com/player.html?aid=216201829&bvid=BV1oa411M7Hj&cid=782120995&page=1"
+        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+      <!-- <span class="text2">
+        <h2>标题2</h2>
+        <p>内容2</p>
+      </span> -->
+    </div>
+  </div>
+  <!---Footer--->
+  <div class="social">
+    <!-- <a href="#" class="fa fa-facebook"></a>
+  <a href="#" class="fa"></a>
+  <a href="#" class="fa"></a>
+  <a href="#" class="fa"></a>
+  <a href="#" class="fa"></a> -->
+  </div>
+  <div class="containerf">
+    <h3>官方QQ群：518302115 服务器地址：mc.dawn.cx 官方邮箱：team@dawn.cx</h3>
+    <h3>© by 黎明 2022</h3>
+  </div>
+</body>
+
+</html>
